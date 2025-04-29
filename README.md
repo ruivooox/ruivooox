@@ -1,8 +1,7 @@
 # Olá, Júnior Tavares aqui! ❤️  
 💻 Dev back-end jr.  
-🌱 Java, MySQL, Spring.  
-📫 email: [contatoojuniortavares@gmail.com](mailto:contatoojuniortavares@gmail.com)  
-⚡ Curiosidade: Sou ruivo e tenho o objetivo de ser um dev Java ruivo 😄  
+🌱 Node, Nest.js, Java, DB Oracle, Express.  
+📫 email: [contatoojuniortavares@gmail.com](mailto:contatoojuniortavares@gmail.com)   
 
 ---
 
